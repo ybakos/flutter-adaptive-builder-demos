@@ -1,16 +1,12 @@
-# adaptive
+# Flutter Adaptive Layout Demos
 
-A new Flutter project.
+A demonstation of OrientationBuilder and LayoutBuilder for adaptive layouts.
+And, a demo on Builder, since it's kinda-sorta related.
 
-## Getting Started
+See:
 
-This project is a starting point for a Flutter application.
+* [OrientationBuilder](https://gist.github.com/ybakos/c33e2d3b99c50337a8772616f6dcae17)
+* [Adaptive Layouts w/ LayoutBuilder](https://gist.github.com/ybakos/2deba9945bcb45e66bbd2998acedd36a)
+* [Builders](https://gist.github.com/ybakos/5683559d3dc0620f6d16419b5dbe6d9b)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+&copy; 2020 Yong Joseph Bakos. All rights reserved.
